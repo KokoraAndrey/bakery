@@ -1,0 +1,15 @@
+:root {
+    --color-primary: #ffe2b0;
+    --color-accent: #f15b40;
+    --color-text: #000;
+    --color-divider: #999;
+    --gradient: linear-gradient(
+        180deg,
+        rgba(244, 213, 178, 0.8) 0%,
+        rgba(234, 156, 65, 0.8) 100%
+    );
+
+    --width-body: 1440px;
+    --font-title: 'Philosopher';
+    --font-text: 'Roboto';
+}
